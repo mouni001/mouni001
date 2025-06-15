@@ -33,3 +33,5 @@ Python • PyTorch • TensorFlow • Neo4j • Docker • Streamlit • GCP •
 🔗 [LinkedIn](https://www.linkedin.com/in/mounira-nihad-zitouni/) • [arXiv Paper](https://arxiv.org/pdf/2411.15898) • [Resume](#)
 
 ![Mounira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouni001&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mouni001&theme=github-compact)
+
